@@ -12,7 +12,7 @@ My name is Matt Morana. This is my personal website and showcases some of my rec
 
 _**[Natural language processing 10-Ks to identify risks](midterm/analysis_report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+After downloading all 10-Ks from S&P 500 firms in 2019, this project analyzed 5 different risks by identifying keywords through natural language processing. Then, the weekly returns at the start of COVID-19 (March 9-13, 2020) were compared to the counts of those keywords to determine if there was a relationship between risks and returns.
 
 ---
 
