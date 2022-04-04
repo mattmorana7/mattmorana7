@@ -26,7 +26,7 @@ I have a strong interest in mergers and acquisitions (M&A) and would especially 
 1. An M&A strategy that focuses on specific target companies we identify through market research and analysis
 2. An action plan which includes recommendations/rationale on how best to organize and deploy resources to achieve our target 
 3. An integration plan giving emphasis to organizational design (taking into consideration whether an acquisition should be viewed as a “bolt-on” to the product line or represents a new division or relates to the formation of a stand-alone subsidiary company)
-4. A balanced scorecard which translates strategic objectives into a set of performance metrics that will be routinely populated and monitored to measure progress and support decision-making.
+4. A balanced scorecard which translates strategic objectives into a set of performance metrics that will be routinely populated and monitored to measure progress and support decision-making
 
 ---
 
