@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---    
+
 # Analysis Report
 
 This report analyzes risk measurements for each of the S&P 500 firms using their year-ending 2019 10k's. These risks were calculated by using the function `near_regex`, which finds certain keywords near each other and outputs the number of times these keywords are within a specific distance from one another. I measured each risk with a max distance of 20 words between the keywords because I believe that is an appropriate distance apart within 1-2 sentences. Once the function runs through all of the 10k's, the output for each risk is stored as a new column in the S&P 500 dataframe.
