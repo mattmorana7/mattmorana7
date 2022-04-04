@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Matt Morana. I am completing my Master of Business Administration degree with a concentration in Business Analytics from Lehigh University in August 2022. I also attended Lehigh University for my undergraduate degree in the class of 2019, where I majored in Supply Chain Management and minored in Business Information Systems and International Relations. I was a 2-year captain of the varsity soccer team and continue to play soccer today (recreationally now). 
+Hello! My name is Matt Morana. I am completing my Master of Business Administration degree with a concentration in Business Analytics from Lehigh University in August 2022. I also attended Lehigh University for my undergraduate degree in the class of 2019, where I majored in Supply Chain Management and minored in Business Information Systems and International Relations. During undergrad, I was a member of Lehigh's Division I varsity soccer team and a two-year captain. In between my two degrees at Lehigh, I worked at Deloitte in New York City as an Engagement Financial Advisor, directly supporting Partners and Senior Managers during every step of the Consulting engagement life cycle, from developing the initial pricing model, to recurring updates throughout the project, to issuing the final invoice.
 
 <!-- Upload your own photo and change the path -->
 
