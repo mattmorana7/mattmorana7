@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Matt Morana. This is my personal website and showcases some of my recent projects.
+Hello! My name is Matt Morana. I am completing my Master of Business Administration degree with a concentration in Business Analytics from Lehigh University in August 2022. I also attended Lehigh University for my undergraduate degree in the class of 2019, where I majored in Supply Chain Management and minored in Business Information Systems and International Relations. I was a 2-year captain of the varsity soccer team and continue to play soccer today (recreationally now). 
 
 <!-- Upload your own photo and change the path -->
 
@@ -16,12 +16,6 @@ After downloading all 10-Ks from S&P 500 firms in 2019, this project analyzed 5 
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
----
-
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
@@ -32,15 +26,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I have a strong interest in mergers and acquisitions (M&A) and would especially like to work in an M&A consulting role after my program. I was introduced to the world of M&A in my previous job at Deloitte, and the MBA program has allowed me to gain hands-on experience in its most distinguished course, the Consulting Practicum. As part of the Practicum, I am currently working on a consulting engagement for a Microsoft Independent Software Vendor based in New York City who would like to acquire a company in an adjacent space to the work they already do (such as cybersecurity, training, compliance, etc.). Our final product will be a 4-part deliverable for our client:  1.) an M&A strategy that focuses on specific target companies we identify through market research and analysis; 2.) an action plan which includes recommendations/rationale on how best to organize and deploy resources to achieve our target; 3.) an integration plan giving emphasis to organizational design (taking into consideration whether an acquisition should be viewed as a “bolt-on” to the product line or represents a new division or relates to the formation of a stand-alone subsidiary company); and 4.) a balanced scorecard which translates strategic objectives into a set of performance metrics that will be routinely populated and monitored to measure progress and support decision-making.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I am from Massachusetts so I love following Boston sports teams. I also enjoy walking my two Golden Retrievers, hiking, kayaking, and traveling to explore new places. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
